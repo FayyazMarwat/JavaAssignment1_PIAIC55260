@@ -1,0 +1,12 @@
+var name = "Fayyaz Khan";
+alert(name);
+var age = 36;
+alert(age + " years old");
+var course = "Certified Mobile Application Development";
+alert(course);
+var email = "fayyazmcs@gmail.com";
+alert("My email address is: "  + email);
+document.write("Yea! I can write HTML content through Java Script"); 
+alert("I am " + age + " years old" );
+var BirthYear=1982;
+document.write("My Birth Year is " + BirthYear);
